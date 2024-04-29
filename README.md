@@ -9,4 +9,4 @@ I am a passionated full-stack PHP developer with 10 years of PHP experience!
 - 🤔 I’m looking for some help with travel planning!
 - 💬 Ask me anything about PHP!
 - 📫 How to reach me: business@hiteshmakvana.com
-- ⚡ Fun fact: I really enjoy coding :D
+- ⚡ Fun fact: I really enjoy coding 😀
